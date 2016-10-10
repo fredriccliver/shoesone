@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">슈즈원</string>
+    <string name="do_you_close_really">종료하시겠습니까?</string>
+    <string name="yes">네</string>
+    <string name="no">아니요</string>
+    <string name="need_agree">가을신상 이벤트 참여에는 페이스북 계정으로 인증이 필요합니다.</string>
+    <string name="login_with_facebook">페이스북으로 로그인</string>
+</resources>
